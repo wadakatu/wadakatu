@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img width="200px" src="./mylogo_black.jpg">  
-</p
+  <img height="300px" src="./mylogo_black.jpg">  
+</p>
 
  
