@@ -1,4 +1,4 @@
-<p style="font-size="15px"" align="center">Hello, I'm Wadakatu a.k.a Koyo🙌</p>
+<h2 style="font-size="15px"" align="center">Hello, I'm Wadakatu a.k.a Koyo🙌</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wadakatu">
@@ -19,8 +19,12 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadakatu&layout=compact&show_icons=true" />
 </p>
 
+<h3 align="center">↓↓↓　This is my Photography Website. ↓↓↓</h3>
+
 <p align="center">
-  <img height="150px" src="./weblogo.jpg">  
+  <a href="https://koyolympus.gallery">
+    <img height="180px" src="./mylogo.jpg">
+  </a>
 </p>
 
  
