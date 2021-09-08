@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://koyolympus.gallery">
-    <img height="180px" src="./mylogo.jpg">
+    <img height="150px" src="./mylogo.jpg">
   </a>
 </p>
 
