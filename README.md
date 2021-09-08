@@ -5,6 +5,8 @@
   <img src="https://qiita-badge.apiapi.app/s/wadakatu/contributions.svg">
 </p>
 
+***
+
 <div align="center">
 <h2>Who am I ? :monocle_face:</h2>
   <ul>
@@ -15,6 +17,8 @@
     <li> :full_moon_with_face:  Funny fact: I have more than 30 allergies.</li>
   </ul>
 <div>
+  
+  ***
   
 <div>
   <h2>My Experiences :hammer_and_wrench: </h2>
@@ -32,6 +36,7 @@
   </p>
 </div>
   
+  ***
   
 <div>
   <h2>Other Info :information_source: </h2>
