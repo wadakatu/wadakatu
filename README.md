@@ -16,7 +16,6 @@
   </ul>
 <div>
   
-  
 <div>
   <h2>My Experiences :hammer_and_wrench: </h2>
   <p align="center">
@@ -34,6 +33,8 @@
 </div>
   
   
+<div>
+  <h2>Other Info :information_source: </h2>
 <p align="center"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=wadakatu&show_icons=ture" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadakatu&layout=compact&show_icons=true" />
@@ -46,5 +47,7 @@
     <img height="150px" src="./mylogo.jpg">
   </a>
 </p>
+  
+</div>
 
  
