@@ -1,4 +1,4 @@
-<h2 style="font-size="15px"" align="center">Hello, I'm Wadakatu from Japan :japan:</h2>
+<h3 style="font-size="15px"" align="center">Hello, I'm Wadakatu from Japan :japan:</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wadakatu">
@@ -8,7 +8,7 @@
 ***
 
 <div align="center">
-<h2>Who am I ? :monocle_face:</h2>
+<h3>Who am I ? :monocle_face:</h3>
   <ul>
     <li> :computer: I'm Web Developer in Tokyo, Japan using PHP, Laravel mainly.</li>
     <li> :man_office_worker: I've been working as Web Engineer for two years.</li>
@@ -21,7 +21,7 @@
   ***
   
 <div>
-  <h2>My Experiences :hammer_and_wrench: </h2>
+  <h3>My Experiences :hammer_and_wrench: </h3>
   <p align="center">
     <img height="25px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -39,7 +39,7 @@
   ***
   
 <div>
-  <h2>Other Info :information_source: </h2>
+  <h3>Other Info :information_source: </h3>
 <p align="center"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=wadakatu&show_icons=ture" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadakatu&layout=compact&show_icons=true" />
