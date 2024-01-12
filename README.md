@@ -44,14 +44,6 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=wadakatu&show_icons=ture" />
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadakatu&layout=compact&show_icons=true" />
 </p>
-
-<h3 align="center">↓↓↓　This is my Photography Website. ↓↓↓</h3>
-
-<p align="center">
-  <a href="https://koyolympus.gallery">
-    <img height="150px" src="./mylogo.jpg">
-  </a>
-</p>
   
 </div>
 
