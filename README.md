@@ -12,7 +12,7 @@
   <ul>
     <li> :computer: I'm Web Developer in Osaka, Japan using PHP, Laravel mainly.</li>
     <li> :man_office_worker: I've been working as Web Engineer for five years.</li>
-    <li> :earth_asia: I'm currently developing the website with Next.js.</li>
+    <li> :earth_asia: I'm currently developing No-code website builder :)</li>
     <li> :phone:  Ask me about anything.</li>
     <li> :full_moon_with_face:  Funny fact: I have more than 30 allergies.</li>
   </ul>
