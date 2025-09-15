@@ -5,59 +5,39 @@
   <img src="https://qiita-badge.apiapi.app/s/wadakatu/contributions.svg" alt="qiita contributions"/>
 </p>
 
+<p align="center">
+  <em>✨ Backend enthusiast, allergic to everything except coding ✨</em>
+</p>
+
 ---
 
 ## 🎭 Who am I?
 
-- 💻 Web Developer in **Osaka, Japan** (mainly **PHP & Laravel**)  
-- 👔 Working as a Web Engineer for **5+ years**  
-- 🌏 Currently building a **No-code website builder**  
-- 📱 Ask me about anything!  
-- 🌕 Fun fact: I have more than **30 allergies**  
+- 💻 Web Developer based in **Osaka, Japan** (mainly **PHP & Laravel**)  
+- 👔 **5+ years** of professional experience as a Web Engineer  
+- 🌏 Building a **No-code Website Builder** to empower creativity  
+- 📝 Active on [Qiita](https://qiita.com/wadakatu) & sharing knowledge  
+- 🌕 Fun fact: I have more than **30 allergies** (yet still survive 💪)  
 
 ---
 
-## 🛠 My Colorful Experiences
+## 🛠 Tech Stack
 
-### 🔧 BackEnd
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🎨 FrontEnd
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=35495E"/>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### 🚀 CI/CD
-<p align="center">
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### 📦 Others
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHPStorm-FF2D91?style=for-the-badge&logo=phpstorm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,js,vue,tailwind,docker,aws,nginx,postman,git,githubactions" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=wadakatu&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
 </p>
+
+- 🚀 Contributed to **scalable backend systems**  
+- 🛠 Experienced in **CI/CD pipelines** (CircleCI & GitHub Actions)  
+- 📚 Love writing & sharing articles to help devs grow  
 
 ---
 
@@ -69,5 +49,21 @@
 </p>
 
 <p align="center">
-  <img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=wadakatu&theme=radical&hide_border=true"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-teal.vercel.app?user=wadakatu&theme=dark&hide_border=true&border_radius=5&card_width=800" alt="GitHub Streak" /></a>
+</p>
+
+---
+
+## 🌟 Let's Connect!
+
+<p align="center">
+  <a href="https://twitter.com/koyolympus">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://qiita.com/wadakatu">
+    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white"/>
+  </a>
+  <a href="https://zenn.dev/wadakatu">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white"/>
+  </a>
 </p>
