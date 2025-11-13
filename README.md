@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&lines=Building+scalable+backend+systems;Empowering+creativity+with+no-code;Sharing+knowledge+and+coffee" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&width=1000&center=true&lines=Building+scalable+backend+systems;Empowering+creativity+with+no-code;Sharing+knowledge+and+coffee" alt="Typing animation"/>
 </p>
 
 ---
