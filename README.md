@@ -33,6 +33,7 @@ neo@zion:~$ ls ~/oss --sort=love
 
 | `PROGRAM` | `DESCRIPTION` |
 | :-- | :-- |
+| [**gesso**](https://github.com/studio-design/gesso) | OpenAPI 3.x contract testing for PHP — Laravel / Symfony / Pest / PSR-7 adapters |
 | [**laravel-spectrum**](https://github.com/wadakatu/laravel-spectrum) | Zero-annotation API documentation generator for Laravel / Lumen |
 | [**gitlyte**](https://github.com/wadakatu/gitlyte) | Turn your GitHub repo into a live website with AI-powered design |
 | [**screenbook**](https://github.com/wadakatu/screenbook) | Screen catalog & navigation graph generator with impact analysis |
