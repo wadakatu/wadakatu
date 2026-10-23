@@ -75,8 +75,4 @@ neo@zion:~$ tail -n 3 ~/transmissions.log
   <img src="https://raw.githubusercontent.com/wadakatu/wadakatu/output/matrix-snake.svg" width="100%" alt="Contribution snake"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wadakatu&label=AGENTS+DETECTED&color=003B00&style=flat-square" alt="Profile views"/>
-</p>
-
 <p align="center"><code>// There is no spoon. 🥄</code></p>
